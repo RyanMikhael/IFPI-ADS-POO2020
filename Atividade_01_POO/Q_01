@@ -1,0 +1,4 @@
+Q-1:
+Para compilarmos e executarmos na verdade devem ser feitos os seguintes comandos:
+javac Avaliacao.java
+java Avaliacao

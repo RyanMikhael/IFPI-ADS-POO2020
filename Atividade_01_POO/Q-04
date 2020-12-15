@@ -1,0 +1,10 @@
+Q-04:
+int op = 1;
+    switch (op) {
+    case 1: System.out.println(op);
+    case 2: System.out.println(op);
+    default:System.out.println(op);
+}
+do código acima são imprimidos dois valores iguais
+É imprimido o valor 1 devido ao case 1 e o valor 1 devido ao default.
+
