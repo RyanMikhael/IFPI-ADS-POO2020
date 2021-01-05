@@ -1,2 +1,0 @@
-Q 03:
-O resultado é 0. Isso porque na instrução de print usa-se o this para referenciar o atributo da classe, esse que não é inicializado e por isso recebe o valor 0.
