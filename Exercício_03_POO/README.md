@@ -12,7 +12,10 @@ escrito dessa forma o método se torna de dificil leitura, já que o atributo e 
 A maneira correta da escrita do código seria:
 
 void x(double valor){
+
+
     this.valor = valor + valor;
+    
 }
 
 Q 05:
