@@ -1,6 +1,0 @@
-Q 05:
-O erro de compilação ocorre devido o fato do construtor Radio() não ter sido definido.
-Uma solução seria:
-Declarar o construtor correto que é aquele que possui parametro volume e também declarar um retorno para o construtor.
-
-
