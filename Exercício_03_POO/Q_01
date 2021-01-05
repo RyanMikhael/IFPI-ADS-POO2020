@@ -1,2 +1,0 @@
-Q 01:
-Não, pois no caso específico a variável é um atributo e os atributos inteiros que não são inicializados em JAVA, ele os inicializa com o valor 0.
