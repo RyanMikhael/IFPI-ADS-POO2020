@@ -1,0 +1,5 @@
+Q 06:
+a) Os dois prints retornam o valor 90. isso se deve ja que as contas são iguais.
+
+b) A partir do momento em que c1 = c2, o endereço de c1 é perdido e passa a apontar para o endereço de c2.
+
