@@ -5,3 +5,5 @@
   var ola = () => "olá";
   console.log( ola() ); 
   ```
+ ## Q 03:
+ - Resposta no código: ```Pares.ts```
