@@ -6,7 +6,6 @@ typedef struct no{
     struct no *direita, *esquerda;
 }NoArv;
 
-void imprimirArvore(NoArv *raiz);
 
 void emordem(NoArv *raiz);
 
